@@ -1,0 +1,6 @@
+# Student submission notes
+
+Submitted by: Ojiguor oghenemarho samuel
+Student ID: UG/22/3215
+
+This Week 1 submission keeps the same functionality while using a slightly different coding style.
